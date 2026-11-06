@@ -185,4 +185,4 @@ The repository contains screenshots showing table creation, sample-data insertio
 
 ## 8. AI use disclosure
 
-An AI assistant was used to help 
+An AI assistant was used to help understand the base of the project and some error handling and error debugging in that order.
