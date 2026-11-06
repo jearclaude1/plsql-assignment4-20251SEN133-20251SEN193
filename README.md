@@ -46,7 +46,9 @@ The project creates four tables:
 The scripts are organized as follows:
 
 
-PL/<br>
+
+plsql-assignment4-20251SEN133-20251SEN193/<br>
+├── 📄 [.gitignore](./.gitignore)<br>
 ├── 📁 **[00_schema/](./00_schema/)**<br>
 │   ├── 📄 [03A_user_defined_record.sql](./00_schema/03A_user_defined_record.sql)<br>
 │   ├── 📄 [03B_rowtype_record.sql](./00_schema/03B_rowtype_record.sql)<br>
@@ -72,6 +74,7 @@ PL/<br>
 ├── 📁 **[docs/](./docs/)**<br>
 │   └── 📄 [IMPLEMENTATION_NOTES.md](./docs/IMPLEMENTATION_NOTES.md)<br>
 └── 📄 **[README.md](./README.md)**
+
 
 
 
