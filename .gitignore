@@ -1,0 +1,44 @@
+
+# Oracle database files
+*.dbf
+*.ctl
+*.log
+*.trc
+*.ora
+*.dmp
+
+# SQL Developer
+.sqldeveloper/
+*.sqlhistory
+*.jws
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.iml
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+
+# Generated files
+*.class
+*.o
+*.out
+
+# Personal files
+*.local
