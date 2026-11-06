@@ -171,4 +171,4 @@ For a much larger inventory, the bulk example could be extended with a `LIMIT` c
 
 ## 12. AI assistance disclosure
 
-An AI assistant was used to draft and organize these implementation notes from the group's supplied SQL/PLSQL files, screenshots inventory, and the assignment document. The group must review the notes, verify all behavior in Oracle, and be able to explain the code and any limitations during the presentation.
+An AI assistant was used to understand the base of the project and some error handling and debugging in that order.
